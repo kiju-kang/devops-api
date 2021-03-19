@@ -10,7 +10,7 @@ future==0.16.0
 futures==3.1.1
 idna==2.5
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 logger==1.4
 logging==0.4.9.6
 MarkupSafe==1.0
